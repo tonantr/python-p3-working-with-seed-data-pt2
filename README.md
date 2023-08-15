@@ -3,7 +3,7 @@
 ## Learning Goals
 
 - Use seed data to populate a database containing one-to-many and many-to-many
-  relationships.
+  relationships...
 
 ***
 
